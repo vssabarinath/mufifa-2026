@@ -56,8 +56,8 @@
 
 #### Domain Profiles:
 
-- 💻 **Coder**: [GitHub: sachin-raj-m](https://github.com/vssabarinath)
-- 📋 **Community Builder**: [LinkedIn: sachinrajm](https://www.linkedin.com/in/vssabarinath)
+- 💻 **Coder**: [GitHub: vssabarinath](https://github.com/vssabarinath)
+- 📋 **Community Builder**: [LinkedIn: vssabarinath](https://www.linkedin.com/in/vssabarinath)
 
 #### Football Community Contributions:
 
@@ -75,8 +75,8 @@
 
 - BTech in Mechanical Engineering from Mar Baselios College of Engineering and Technology, Nalanchira.
 - Studies subjects across engineering, mathematics, and analytical problem-solving.
-- GitHub: [sachin-raj-m](https://github.com/vssabarinath)
-- LinkedIn: [sachinrajm](https://www.linkedin.com/in/vssabarinath)
+- GitHub: [vssabarinath](https://github.com/vssabarinath)
+- LinkedIn: [vssabarinath](https://www.linkedin.com/in/vssabarinath)
 
 #### History of Leadership:
 
